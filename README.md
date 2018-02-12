@@ -12,7 +12,7 @@ A repository listing project ideas, resources to study, useful links, and stuff.
   * Implement Fb/Twitter auth
 
 # to investigate
-* 
+* Maximize VsCode usability with React : https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
 
 # useful resources
 *
