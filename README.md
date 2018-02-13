@@ -13,6 +13,7 @@ A repository listing project ideas, resources to study, useful links, and stuff.
 
 # to investigate
 * Maximize VsCode usability with React : https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+* Dockerfile guide for node : https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4?gi=c70d43150547
 
 # useful resources
 *
