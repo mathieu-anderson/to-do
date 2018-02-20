@@ -17,4 +17,4 @@ A repository listing project ideas, resources to study, useful links, and stuff.
 * Site Reliability Engineering by Google : https://landing.google.com/sre/book.html
 
 # useful resources
-*
+* a guide to `<head>`: https://gethead.info/
