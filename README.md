@@ -16,6 +16,10 @@ A repository listing project ideas, resources to study, useful links, and stuff.
 * Dockerfile guide for node : https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4?gi=c70d43150547
 * Site Reliability Engineering by Google : https://landing.google.com/sre/book.html
 * JAM Stack. Wut ? https://jamstack.org/
+* Functinoal programming in JS :
+    * A skeptic's guide : https://youtu.be/JVRqkNmAYZM
+    * Javascript allongé : https://leanpub.com/javascriptallongesix/read
+    * Mostly adequate guide : https://mostly-adequate.gitbooks.io/mostly-adequate-guide/
 
 # useful resources
 * a guide to `<head>`: https://gethead.info/
