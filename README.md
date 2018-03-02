@@ -2,6 +2,8 @@
 A repository listing project ideas, resources to study, useful links, and stuff.
 
 # project ideas
+* Remake of portfolio website with [Gatsby](https://www.gatsbyjs.org/)
+
 * Simple vegan ingredient checker based on [is-vegan](https://www.npmjs.com/package/is-vegan). Objectives :
   * Slick interface
   * Suggestions in searchbox
