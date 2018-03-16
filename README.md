@@ -26,3 +26,4 @@ A repository listing project ideas, resources to study, useful links, and stuff.
 # useful resources
 * a guide to `<head>`: https://gethead.info/
 * simple UI tips that go a long way : https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886
+* a list of React anti-pattern and their idiomatic solutions : https://pbs.twimg.com/media/DYXlkUnVQAE--gD.jpg
