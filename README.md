@@ -13,6 +13,8 @@ A repository listing project ideas, resources to study, useful links, and stuff.
 * Brussels' version of [Croisé dans le métro](https://www.croisedanslemetro.com/). Objectives :
   * Basic features based on [STIB open datasets](https://opendata.stib-mivb.be/store/data)
   * Implement Fb/Twitter auth
+  
+  * Make a better website for New Rocks (JS CMS system tbd...) : http://newrockescalade.be/
 
 # to investigate
 * Maximize VsCode usability with React : https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
