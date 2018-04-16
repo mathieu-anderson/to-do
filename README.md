@@ -25,6 +25,7 @@ A repository listing project ideas, resources to study, useful links, and stuff.
     * A skeptic's guide : https://youtu.be/JVRqkNmAYZM
     * Javascript allongé : https://leanpub.com/javascriptallongesix/read
     * Mostly adequate guide : https://mostly-adequate.gitbooks.io/mostly-adequate-guide/
+* The Flutter FAQ : https://flutter.io/faq/
 
 # useful resources
 * a guide to `<head>`: https://gethead.info/
