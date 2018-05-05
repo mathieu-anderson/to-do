@@ -31,6 +31,7 @@ A repository listing project ideas, resources to study, useful links, and stuff.
 # useful resources
 * a guide to `<head>`: https://gethead.info/
 * simple UI tips that go a long way : https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886
+* brain tricks to align things : https://blog.prototypr.io/optical-adjustments-in-components-a7f1f8655e0
 * a list of React anti-pattern and their idiomatic solutions : https://pbs.twimg.com/media/DYXlkUnVQAE--gD.jpg
 * undoing stuff in git : https://sethrobertson.github.io/GitFixUm/fixup.html
 * webpack optimization tips : https://github.com/GoogleChromeLabs/webpack-libs-optimizations/blob/master/README.md
