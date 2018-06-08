@@ -6,6 +6,7 @@ A repository listing project ideas, resources to study, useful links, and stuff.
   * With Strapi ? https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi/
   * An excuse to try Pose ? https://popmotion.io/pose/
   * And `react-feather` ! https://github.com/carmelopullara/react-feather
+  * This is nifty too https://github.com/pshihn/lumin
 
 * Simple vegan ingredient checker based on [is-vegan](https://www.npmjs.com/package/is-vegan). Objectives :
   * Slick interface
