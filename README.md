@@ -12,7 +12,7 @@ A repository listing project ideas, resources to study, useful links, and stuff.
   * Slick interface
   * Suggestions in searchbox
   * In react-native for mobile ?
-  **Repo** -> https://github.com/mathieu-anderson/vegan-checker
+  * **Repo** -> https://github.com/mathieu-anderson/vegan-checker
   
 * Brussels' version of [Croisé dans le métro](https://www.croisedanslemetro.com/). Objectives :
   * Basic features based on [STIB open datasets](https://opendata.stib-mivb.be/store/data)
