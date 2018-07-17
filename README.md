@@ -8,11 +8,11 @@ A repository listing project ideas, resources to study, useful links, and stuff.
   * And `react-feather` ! https://github.com/carmelopullara/react-feather
   * This is nifty too https://github.com/pshihn/lumin
 
-* Simple vegan ingredient checker based on [is-vegan](https://www.npmjs.com/package/is-vegan). Objectives :
+~~* Simple vegan ingredient checker based on [is-vegan](https://www.npmjs.com/package/is-vegan). Objectives :
   * Slick interface
-  * Suggestions in searchbox
-  * In react-native for mobile ?
-  * **Repo** -> https://github.com/mathieu-anderson/vegan-checker
+  ~~* Suggestions in searchbox~~
+ ~~* In react-native for mobile ?~~
+  * **Repo for this project** -> https://github.com/mathieu-anderson/vegan-checker
   
 * Brussels' version of [Croisé dans le métro](https://www.croisedanslemetro.com/). Objectives :
   * Basic features based on [STIB open datasets](https://opendata.stib-mivb.be/store/data)
@@ -39,3 +39,4 @@ A repository listing project ideas, resources to study, useful links, and stuff.
 * a book about React design patterns : https://krasimir.gitbooks.io/react-in-patterns/
 * undoing stuff in git : https://sethrobertson.github.io/GitFixUm/fixup.html
 * webpack optimization tips : https://github.com/GoogleChromeLabs/webpack-libs-optimizations/blob/master/README.md
+* managing complex waiting experiences : https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8
