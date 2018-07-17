@@ -8,8 +8,8 @@ A repository listing project ideas, resources to study, useful links, and stuff.
   * And `react-feather` ! https://github.com/carmelopullara/react-feather
   * This is nifty too https://github.com/pshihn/lumin
 
-* ~~Simple vegan ingredient checker based on [is-vegan](https://www.npmjs.com/package/is-vegan). Objectives :
-  * ~~Slick interface
+* ~~Simple vegan ingredient checker based on [is-vegan](https://www.npmjs.com/package/is-vegan). Objectives :~~
+  * ~~Slick interface~~
   * ~~Suggestions in searchbox~~
   * ~~In react-native for mobile ?~~
   * **Repo for this project** -> https://github.com/mathieu-anderson/vegan-checker
