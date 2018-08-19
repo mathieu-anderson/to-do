@@ -25,18 +25,19 @@ A repository listing project ideas, resources to study, useful links, and stuff.
 * Dockerfile guide for node : https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4?gi=c70d43150547
 * Site Reliability Engineering by Google : https://landing.google.com/sre/book.html
 * JAM Stack. Wut ? https://jamstack.org/
-* Functinoal programming in JS :
+* Functional programming in JS :
     * A skeptic's guide : https://youtu.be/JVRqkNmAYZM
     * Javascript allongé : https://leanpub.com/javascriptallongesix/read
     * Mostly adequate guide : https://mostly-adequate.gitbooks.io/mostly-adequate-guide/
 * The Flutter FAQ : https://flutter.io/faq/
 
 # useful resources
-* a guide to `<head>`: https://gethead.info/
-* simple UI tips that go a long way : https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886
-* brain tricks to align things : https://blog.prototypr.io/optical-adjustments-in-components-a7f1f8655e0
-* a list of React anti-pattern and their idiomatic solutions : https://pbs.twimg.com/media/DYXlkUnVQAE--gD.jpg
-* a book about React design patterns : https://krasimir.gitbooks.io/react-in-patterns/
-* undoing stuff in git : https://sethrobertson.github.io/GitFixUm/fixup.html
-* webpack optimization tips : https://github.com/GoogleChromeLabs/webpack-libs-optimizations/blob/master/README.md
-* managing complex waiting experiences : https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8
+* A guide to `<head>`: https://gethead.info/
+* Simple UI tips that go a long way : https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886
+* Brain tricks to align things : https://blog.prototypr.io/optical-adjustments-in-components-a7f1f8655e0
+* A list of React anti-pattern and their idiomatic solutions : https://pbs.twimg.com/media/DYXlkUnVQAE--gD.jpg
+* A book about React design patterns : https://krasimir.gitbooks.io/react-in-patterns/
+* Undoing stuff in git : https://sethrobertson.github.io/GitFixUm/fixup.html
+* Webpack optimization tips : https://github.com/GoogleChromeLabs/webpack-libs-optimizations/blob/master/README.md
+* Managing complex waiting experiences : https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8
+* Building a color palette framework : https://medium.com/sketch-app-sources/building-a-color-palette-framework-96dbda541c2e
