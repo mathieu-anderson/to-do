@@ -32,6 +32,7 @@ A repository listing project ideas, resources to study, useful links, and stuff.
 * The Flutter FAQ : https://flutter.io/faq/
 
 # useful resources
+* Front-end best practices : https://pbs.twimg.com/media/Cfh9oRrXIAAiA2Y.jpg
 * A guide to `<head>`: https://gethead.info/
 * Simple UI tips that go a long way : https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886
 * Brain tricks to align things : https://blog.prototypr.io/optical-adjustments-in-components-a7f1f8655e0
@@ -41,3 +42,8 @@ A repository listing project ideas, resources to study, useful links, and stuff.
 * Webpack optimization tips : https://github.com/GoogleChromeLabs/webpack-libs-optimizations/blob/master/README.md
 * Managing complex waiting experiences : https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8
 * Building a color palette framework : https://medium.com/sketch-app-sources/building-a-color-palette-framework-96dbda541c2e
+* Flash cards for developers : http://www.flashcardsfordevelopers.com/
+* Xray React : https://github.com/loogle18/xray-react
+* CSS grid trick (responsiveness wihtout media queries) : https://twitter.com/geddski/status/1036994575783677955
+* HTML to Image API : https://htmlcsstoimage.com/
+
