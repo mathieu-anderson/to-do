@@ -41,7 +41,8 @@ A repository listing project ideas, resources to study, useful links, and stuff.
 * Undoing stuff in git : https://sethrobertson.github.io/GitFixUm/fixup.html
 * Webpack optimization tips : https://github.com/GoogleChromeLabs/webpack-libs-optimizations/blob/master/README.md
 * Managing complex waiting experiences : https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8
-* Building a color palette framework : https://medium.com/sketch-app-sources/building-a-color-palette-framework-96dbda541c2e
+* Building a color palette framework (principles) : https://medium.com/sketch-app-sources/building-a-color-palette-framework-96dbda541c2e
+* building a color palette framework (practice) : https://www.colorbox.io/
 * Flash cards for developers : http://www.flashcardsfordevelopers.com/
 * Xray React : https://github.com/loogle18/xray-react
 * CSS grid trick (responsiveness wihtout media queries) : https://twitter.com/geddski/status/1036994575783677955
