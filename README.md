@@ -30,6 +30,7 @@ A repository listing project ideas, resources to study, useful links, and stuff.
     * Javascript allongé : https://leanpub.com/javascriptallongesix/read
     * Mostly adequate guide : https://mostly-adequate.gitbooks.io/mostly-adequate-guide/
 * The Flutter FAQ : https://flutter.io/faq/
+* Recompose ('lodash for React'') : https://github.com/acdlite/recompose
 
 # useful resources
 * Front-end best practices : https://pbs.twimg.com/media/Cfh9oRrXIAAiA2Y.jpg
