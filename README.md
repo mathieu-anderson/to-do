@@ -31,6 +31,10 @@ A repository listing project ideas, resources to study, useful links, and stuff.
     * Mostly adequate guide : https://mostly-adequate.gitbooks.io/mostly-adequate-guide/
 * The Flutter FAQ : https://flutter.io/faq/
 * Recompose ('lodash for React'') : https://github.com/acdlite/recompose
+* TypeScript :
+    * Definitely Typed : http://definitelytyped.org/guides/best-practices.html
+    * TypeScript deep dive : https://basarat.gitbooks.io/typescript/
+    * React starter : https://github.com/Microsoft/TypeScript-React-Starter#typescript-react-starter
 
 # useful resources
 * Front-end best practices : https://pbs.twimg.com/media/Cfh9oRrXIAAiA2Y.jpg
