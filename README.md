@@ -53,3 +53,4 @@ A repository listing project ideas, resources to study, useful links, and stuff.
 * CSS grid trick (responsiveness wihtout media queries) : https://twitter.com/geddski/status/1036994575783677955
 * HTML to Image API : https://htmlcsstoimage.com/
 * Grid generator : https://www.layoutit.com/grid
+* 30 seconds of code : https://30secondsofcode.org/index
