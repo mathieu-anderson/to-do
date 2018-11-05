@@ -20,6 +20,8 @@ A repository listing project ideas, resources to study, useful links, and stuff.
   
 * Make a better website for New Rocks (JS CMS system tbd...) : http://newrockescalade.be/
 
+* ihavethismu.ch / ihavethatmu.ch : recommendation of purchase based on a budget
+
 # to investigate
 * Maximize VsCode usability with React : https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
 * Dockerfile guide for node : https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4?gi=c70d43150547
