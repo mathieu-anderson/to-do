@@ -56,3 +56,4 @@ A repository listing project ideas, resources to study, useful links, and stuff.
 * HTML to Image API : https://htmlcsstoimage.com/
 * Grid generator : https://www.layoutit.com/grid
 * 30 seconds of code : https://30secondsofcode.org/index
+* Guide to high performing Gatsby project : https://justinformentin.com/guide-to-building-a-gatsby-site
