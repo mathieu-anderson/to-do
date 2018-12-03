@@ -39,6 +39,7 @@ A repository listing project ideas, resources to study, useful links, and stuff.
     * Definitely Typed : http://definitelytyped.org/guides/best-practices.html
     * TypeScript deep dive : https://basarat.gitbooks.io/typescript/
     * React starter : https://github.com/Microsoft/TypeScript-React-Starter#typescript-react-starter
+    * Jared Palmer's TS setup : https://github.com/palmerhq/typescript/blob/master/README.md
 
 # useful resources
 * Front-end best practices : https://pbs.twimg.com/media/Cfh9oRrXIAAiA2Y.jpg
