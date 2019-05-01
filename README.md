@@ -24,7 +24,7 @@ A repository listing project ideas, resources to study, useful links, and stuff.
 
 * Dan Abramov Music Library : crawl Dan tweets and detect when he posts an image of his spotify, then create an image wall of them.
 
-* ~~equality roulette : a slot machine with `value` | `==` / `===` / `!==` / `!===` | `value` and you get truthy or falsy depending on them. Based on https://dorey.github.io/JavaScript-Equality-Table/~~   * **Repo for this project** -> https://github.com/mathieu-anderson/js-equality-jackpot
+* ~~equality roulette : a slot machine with `value` | `==` / `===` / `!==` / `!===` | `value` and you get truthy or falsy depending on them. Based on https://dorey.github.io/JavaScript-Equality-Table/~~ **Repo for this project** -> https://github.com/mathieu-anderson/js-equality-jackpot
 
  
 # to investigate
