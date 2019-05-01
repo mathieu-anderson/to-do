@@ -24,6 +24,8 @@ A repository listing project ideas, resources to study, useful links, and stuff.
 
 * Dan Abramov Music Library : crawl Dan tweets and detect when he posts an image of his spotify, then create an image wall of them.
 
+* equality roulette : a slot machine with `value` | `==` / `===` / `!==` / `!===` | `value` and you get truthy or falsy depending on them. Based on https://dorey.github.io/JavaScript-Equality-Table/
+ 
 # to investigate
 * Maximize VsCode usability with React : https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
 * Dockerfile guide for node : https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4?gi=c70d43150547
