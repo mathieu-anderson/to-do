@@ -29,6 +29,8 @@ A repository listing project ideas, resources to study, useful links, and stuff.
 
 * Your life in weeks but as an online productivity tool https://waitbutwhy.com/2014/05/life-weeks.html
 
+* A tool to track and compose dialogue trees for RPGs
+
  
 # to investigate
 * Maximize VsCode usability with React : https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
